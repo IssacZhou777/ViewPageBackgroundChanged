@@ -1,0 +1,2 @@
+# ViewPageBackgroundChanged
+实现ViewPage背景颜色随着滑动渐变
