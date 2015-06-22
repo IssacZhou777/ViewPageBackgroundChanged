@@ -5,10 +5,17 @@
               android:layout_height="fill_parent"
         >
     <TextView
+            android:id="@+id/color"
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:text="Hello World, MyActivity"
             />
+    <android.support.v4.view.ViewPager
+            android:id="@+id/viewpager"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"/>
+
 
 </LinearLayout>
 
